@@ -21,7 +21,7 @@ const Footer = () => {
                         </Link>
                     </div>
                     <p className=" text-[#999] font-rambla">
-                        <small>  © 2024 Angus Treats. Powered by <a className='no-underline text-yellow-300' href="https://thestockit.net/">The Stockit</a>
+                        <small>  © 2024 Angus Treats. Powered by <a target='_blank' className='no-underline text-yellow-300' href="https://thestockit.net/">The Stockit</a>
                         </small>
                     </p>
                 </div>
