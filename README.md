@@ -1,4 +1,4 @@
-![demo01](https://github.com/user-attachments/assets/2e653826-5b77-4e79-b0d7-e5e1463f2571)# Angus Treats Website
+# Angus Treats Website
 
 This website showcases a modern frontend design built with Tailwind CSS in Next.js having visually appealing layout.
 
